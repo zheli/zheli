@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on scaling staking service at [Stakeway](https://stakeway.com).
+- 📫 How to reach me: Find me on [X](https://x.com/linuxcity)
+
 <!--
 **zheli/zheli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
